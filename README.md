@@ -2,7 +2,7 @@
 
 ## Sobre mim
 Desenvolvedor de software com +7 anos em TI, hoje no time de desenvolvimento
-da Omie, trabalhando com C#, .NET, APIs REST, SQL, Docker, Gemini CLI.
+da Omie, trabalhando com C#, .NET, APIs REST, SQL, Docker.
 
 ## Tecnologias
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
