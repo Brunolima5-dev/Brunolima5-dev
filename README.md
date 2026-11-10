@@ -12,8 +12,5 @@ da Omie, trabalhando com C#, .NET, APIs REST, SQL, Docker, Gemini CLI.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Projetos em destaque
-- [Agendae](link) — descrição de 1 linha
-
 ## Contato
 [Linkedin](https://www.linkedin.com/in/brunolima5-dev) · brunopereira186@live.com
